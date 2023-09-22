@@ -9,3 +9,4 @@ Members:
 - Miles Eng: Cart/Orders
 
 We all worked collaboratively to create our database design and user flow for the website.
+Link to GitLab: https://gitlab.oit.duke.edu/mre29/mini-amazon-skeleton/-/blob/main/README.md 
